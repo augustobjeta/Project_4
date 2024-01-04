@@ -12,7 +12,7 @@ Remember to start with a good problem statement!
 
 Some prompts have links to data sources, some don't. It's your responsibility to gather and clean your data. For most projects, this will be the bulk of your work.  Start early!
 
-Inspiration for several prompts came from [Data is Plural](https://tinyletter.com/data-is-plural).
+Inspiration for several prompts came from [Data is Plural](https://www.data-is-plural.com/).
 
 ## Prompts
 

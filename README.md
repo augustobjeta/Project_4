@@ -130,6 +130,7 @@ Your instructors will divide your class into teams based on interests. Chat with
 Each group will present their findings.
 
 Your presentation must include:
+- Time for each group member to say something.
 - A summary of the problem you tackled.
 - A walkthrough of how you set out to solve the problem.
 - A demonstration of your solution. (i.e. You may demonstrate an app you developed, an example of how a model may be used, etc.)
@@ -143,6 +144,7 @@ Presentation requirements:
 - Your presentation must include slides. (Google Slides, PowerPoint, Keynote, etc.)
 - Use visuals that are appropriately scaled and interpretable.
 - Make sure you provide clear conclusions/recommendations that follow logically from your analyses and narrative and answer your data science problem.
+- Each group member must contribute to the presentation, ideally about what they tackled but it is up to the group to divvy up the presentation in the end.
 
 ---
 

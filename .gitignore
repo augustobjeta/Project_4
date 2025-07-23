@@ -11,6 +11,17 @@
 *.ipynb_checkpoints
 
 
+# Folder view configuration files
+[Dd]esktop.ini
+
+# Thumbnail cache files
+Thumbs.db
+
+# VSCode
+.vscode
+
+# IPython Notebook
+*.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,4 +1,4 @@
-OUT LINE TO BE REPLACES WITH OUR TEXT:
+OUTLINE TO BE REPLACES WITH OUR TEXT:
 
 ****WIll need to tell user how to obtain api key since we cannot store one for them... instructions here:
 http://youtube.com/watch?v=SIm2W9TtzR0
@@ -17,7 +17,10 @@ You will have to aquire your own YouTube v3 api to access data.
 
 
 ________________________
-videos scraped-
+
+Scraped Videos - 
+
+Campaign speech videos:
 Hillary playlist: PL3-OIwNPoC3Lj68487lgoJiwrXx5lVO8e
 June 7, 2016, Hillary Clinton makes history (Full speech)
 https://www.youtube.com/watch?v=FN6KBbug9gA
@@ -45,6 +48,19 @@ October 30, 2016 Full Speech: Donald Trump Rally in Greeley, CO
 https://www.youtube.com/watch?v=aMZsKq99hdk
 November 5, 2016 Full Speech: Donald Trump Rally in Denver, CO
 https://www.youtube.com/watch?v=KIKNSZ_Nf3w
+
+
+DEBATE videos -
+There were 3 debates in 2016: September 26, 2016, October 9, 2016,October 19, 2016. We haev aimed for an equal distribution of videos from each "type" of media sources. The types are Right and Left. An important note Pew research article(https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/) showed a great sspread in trust and sources left of the center in regards to American politics. for this reason we have a range from mid to mid left news sources in an attempt to represtent "the most" Americans perspectives. 
+
+CNN/PBS/NPR/NYT:
+October 9: [Second Presidential Debate | Election 2016 | The New York Times]
+(https://www.youtube.com/watch?v=rfq0Yw2sMq0)
+
+FOX:
+September 26, [Highlights from the first presidential debate](https://www.youtube.com/watch?v=lTgieGfYVQs)
+
+October 19: 
 
 ________________________
 1. Project Title & Overview:

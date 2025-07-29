@@ -15,6 +15,9 @@ Project name: Social Media Sentiment Analysis vers Polls, contact email
 augustvollbrecht@gmail.com, available to External users (only option offered)
 
 
+OUTLINE OF NOTEBOOKS?PROJECT FOLDER CONTENTS - state to be outlined in same order in README
+
+
 You will have to acquire your own YouTube v3 api to access data.
 
 ________________________
@@ -31,6 +34,8 @@ The data had to be parsed differently as the comments on each candidate's videos
 
 Our solution to the increased categories of responses that could be encountered on the debate videos was to sample equally from Democratic leaning and Republican leaning videos. We kept the comments separate and from Dem videos we classified the data as either for or against HC and debates that aired on Republican media outlets were classified as either for or against DT.
 
+
+MAKE A DATA DICTIONARY FOR YOUR CSV'S!
 
 ### Videos scraped for comments - 
 

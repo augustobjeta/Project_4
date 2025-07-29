@@ -1,4 +1,5 @@
 OUTLINE TO BE REPLACES WITH OUR TEXT:
+.....
 
 ****WIll need to tell user how to obtain api key since we cannot store one for them... instructions here:
 http://youtube.com/watch?v=SIm2W9TtzR0
@@ -10,17 +11,30 @@ video - https://www.youtube.com/watch?v=A1III_DQU4I
 code -https://github.com/analyticswithadam/Python/blob/main/Pull_all_Comments_and_Replies_for_YouTube_Playlists.ipynb
 
 
-Youtube api project name: Social Media Sentiment Analysis vers Polls, contact email 
-augustvollbrecht@gmail.com, avalible to External users (only option offered)
+Project name: Social Media Sentiment Analysis vers Polls, contact email 
+augustvollbrecht@gmail.com, available to External users (only option offered)
 
-You will have to aquire your own YouTube v3 api to access data.
 
+You will have to acquire your own YouTube v3 api to access data.
 
 ________________________
 
-Scraped Videos - 
 
-Campaign speech videos:
+## Sentiment Data Collections
+We focused on the middle of the road platforms to collect our data. WE ideally would have included reddit commentary but it is no longer publicly available. Youtube is a great substitute as it appeals to an extremely broad range of users.
+
+
+Next media was selected. Criteria was based on reproducibility. Media was selected on the premise that it would likely be produced and published similarly in future debates. The criteria made it obvious to choose media fundamental to and highly anticipated in every presidential campaign: rally speeches and debates.
+
+
+The data had to be parsed differently as the comments on each candidate's videos could easily be classified as for or against/positive or negative, whereas for debate videos comments could be in support of either candidate.
+
+Our solution to the increased categories of responses that could be encountered on the debate videos was to sample equally from Democratic leaning and Republican leaning videos. We kept the comments separate and from Dem videos we classified the data as either for or against HC and debates that aired on Republican media outlets were classified as either for or against DT.
+
+
+### Videos scraped for comments - 
+
+#### Campaign speech videos:
 Hillary playlist: PL3-OIwNPoC3Lj68487lgoJiwrXx5lVO8e
 June 7, 2016, Hillary Clinton makes history (Full speech)
 https://www.youtube.com/watch?v=FN6KBbug9gA
@@ -49,18 +63,37 @@ https://www.youtube.com/watch?v=aMZsKq99hdk
 November 5, 2016 Full Speech: Donald Trump Rally in Denver, CO
 https://www.youtube.com/watch?v=KIKNSZ_Nf3w
 
+### DEBATE videos -
+There were 3 presidential debates in 2016: September 26, 2016, October 9, 2016, October 19, 2016. We aimed for an equal distribution of videos from each "type" of media sources. The types are "Right" and "Left." An important note a [Pew research article](https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/) showed a great spread in trust of sources left of the center in regards to American politics. For this reason we have a range from "middle" to mid-left news sources in an attempt to represent "the most" Americans perspectives. 
 
-DEBATE videos -
-There were 3 debates in 2016: September 26, 2016, October 9, 2016,October 19, 2016. We haev aimed for an equal distribution of videos from each "type" of media sources. The types are Right and Left. An important note Pew research article(https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/) showed a great sspread in trust and sources left of the center in regards to American politics. for this reason we have a range from mid to mid left news sources in an attempt to represtent "the most" Americans perspectives. 
 
-CNN/PBS/NPR/NYT:
-October 9: [Second Presidential Debate | Election 2016 | The New York Times]
-(https://www.youtube.com/watch?v=rfq0Yw2sMq0)
+#### CNN/PBS/NPR/NYT/CBS:
+September 26:
 
-FOX:
-September 26, [Highlights from the first presidential debate](https://www.youtube.com/watch?v=lTgieGfYVQs)
+October 9: 
+[Second Presidential Debate | Election 2016 | The New York Times](https://www.youtube.com/watch?v=rfq0Yw2sMq0)
+
+[The Second Presidential Debate: Hillary Clinton And Donald Trump (Full Debate) | NBC News](https://www.youtube.com/watch?v=FRlI2SQ0Ueg)
 
 October 19: 
+[CBS News - Full 2016 Final Presidential Debate](https://www.youtube.com/watch?v=FZ_G5j9yVIU)
+[LIVE: Third Presidential Debate (C-SPAN)](https://www.youtube.com/watch?v=ANT_ZBhpvtw&t=173s)
+[Final 2016 Presidential Debate (Full) | The New York Times](https://www.youtube.com/watch?v=Z_pEb1bDN-w)
+
+#### FOX/Newsmax/NewYorkPost:
+September 26: 
+[Highlights from the first presidential debate](https://www.youtube.com/watch?v=lTgieGfYVQs)
+
+October 9:
+
+October 19: Saved in 3 parts
+Fox News
+[Part 1 of third presidential debate at University of Nevada](https://www.youtube.com/watch?v=cyx5e2c1SgU)
+
+[Part 2 of third presidential debate at University of Nevada
+](https://www.youtube.com/watch?v=BgPENwntzKk)
+
+[Part 3 of the Fox News GOP presidential debate in Detroit](https://www.youtube.com/watch?v=Uaujjp3JKGY)
 
 ________________________
 1. Project Title & Overview:

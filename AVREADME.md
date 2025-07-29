@@ -36,6 +36,7 @@ Our solution to the increased categories of responses that could be encountered 
 
 #### Campaign speech videos:
 Hillary playlist: PL3-OIwNPoC3Lj68487lgoJiwrXx5lVO8e
+Comments stored: Data/hillary_comments.csv
 June 7, 2016, Hillary Clinton makes history (Full speech)
 https://www.youtube.com/watch?v=FN6KBbug9gA
 July 25, 2016, Hillary Clinton's full speech at the 2016 Democratic National Convention:
@@ -50,6 +51,7 @@ November 8, 2016, Full Video: Hillary Clinton holds a midnight rally in North Ca
 https://www.youtube.com/watch?v=n7Tamj06FQs
 
 Trump playlist: PL3-OIwNPoC3II9mG8jLIN8ODWydLnU1bB
+Comments stored: 'Data/trump_comments.csv'
 June (May 25th, 2016), Donald Trump Rally in Anaheim, CA
 https://www.youtube.com/watch?v=ltNVyvK8Paw
 Jul 21, 2016, FULL SPEECH: Donald Trump at RNC. Republican National Convention. Cleveland, Ohio.
@@ -67,33 +69,48 @@ https://www.youtube.com/watch?v=KIKNSZ_Nf3w
 There were 3 presidential debates in 2016: September 26, 2016, October 9, 2016, October 19, 2016. We aimed for an equal distribution of videos from each "type" of media sources. The types are "Right" and "Left." An important note a [Pew research article](https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/) showed a great spread in trust of sources left of the center in regards to American politics. For this reason we have a range from "middle" to mid-left news sources in an attempt to represent "the most" Americans perspectives. 
 
 
-#### CNN/PBS/NPR/NYT/CBS:
+#### NBC/NTY/NBC/ABC/CBS/CSpan:
+Playlist: https://www.youtube.com/watch?v=rfq0Yw2sMq0&list=PL3-OIwNPoC3Lhs0Iob2u9_jMaBhubek3r
+Comments stored: 'Data/Dem_debate_comments.csv'
+
 September 26:
+[The First Presidential Debate: Hillary Clinton And Donald Trump (Full Debate) | NBC News](https://www.youtube.com/watch?v=855Am6ovK7s) 40098
 
 October 9: 
-[Second Presidential Debate | Election 2016 | The New York Times](https://www.youtube.com/watch?v=rfq0Yw2sMq0)
+[Second Presidential Debate | Election 2016 | The New York Times](https://www.youtube.com/watch?v=rfq0Yw2sMq0) 6966
 
-[The Second Presidential Debate: Hillary Clinton And Donald Trump (Full Debate) | NBC News](https://www.youtube.com/watch?v=FRlI2SQ0Ueg)
+[The Second Presidential Debate: Hillary Clinton And Donald Trump (Full Debate) | NBC News](https://www.youtube.com/watch?v=FRlI2SQ0Ueg) 40199
+
+23ABC [FULL VIDEO: Donald Trump vs Hillary Clinton - 2nd Presidential Debate](https://www.youtube.com/watch?v=h-gkBUbU_F4)1861
 
 October 19: 
-[CBS News - Full 2016 Final Presidential Debate](https://www.youtube.com/watch?v=FZ_G5j9yVIU)
-[LIVE: Third Presidential Debate (C-SPAN)](https://www.youtube.com/watch?v=ANT_ZBhpvtw&t=173s)
-[Final 2016 Presidential Debate (Full) | The New York Times](https://www.youtube.com/watch?v=Z_pEb1bDN-w)
+[CBS News - Full 2016 Final Presidential Debate](https://www.youtube.com/watch?v=FZ_G5j9yVIU) 931
+[LIVE: Third Presidential Debate (C-SPAN)](https://www.youtube.com/watch?v=ANT_ZBhpvtw&t=173s) 2531
+[Final 2016 Presidential Debate (Full) | The New York Times](https://www.youtube.com/watch?v=Z_pEb1bDN-w)   1666
 
-#### FOX/Newsmax/NewYorkPost:
+#### FOX/CBC/NBC/Newsmax/NewYorkPost:
+Playlist: https://www.youtube.com/watch?v=lTgieGfYVQs&list=PL3-OIwNPoC3JFEvZP_nSMPrib8viH2KX-
+Comments stored: ''Data/Rep_Debates_comments.csv'
+
 September 26: 
-[Highlights from the first presidential debate](https://www.youtube.com/watch?v=lTgieGfYVQs)
+[Highlights from the first presidential debate](https://www.youtube.com/watch?v=lTgieGfYVQs) 69
+FOX[FULL DEBATE: Donald Trump And Hillary Clinton First Presidential Debate (FNN)](https://www.youtube.com/watch?v=lIexQNGxwog) 388
 
 October 9:
 
 October 19: Saved in 3 parts
 Fox News
 [Part 1 of third presidential debate at University of Nevada](https://www.youtube.com/watch?v=cyx5e2c1SgU)
-
+347
 [Part 2 of third presidential debate at University of Nevada
-](https://www.youtube.com/watch?v=BgPENwntzKk)
+](https://www.youtube.com/watch?v=BgPENwntzKk)152
 
-[Part 3 of the Fox News GOP presidential debate in Detroit](https://www.youtube.com/watch?v=Uaujjp3JKGY)
+[Part 3 of the Fox News GOP presidential debate in Detroit](https://www.youtube.com/watch?v=Uaujjp3JKGY)458
+
+[cbc news 
+CBC News Special: Final Trump-Clinton presidential debate](https://www.youtube.com/watch?v=dXWdiz--X0s) 425
+
+[NBC News-YouTube Democratic Debate (Full)](https://www.youtube.com/watch?v=ti2Nokoq1J4)9166
 
 ________________________
 1. Project Title & Overview:

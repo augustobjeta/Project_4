@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=_uqmcnwjHrY
 November 8, 2016, Full Video: Hillary Clinton holds a midnight rally in North Carolina on election eve
 https://www.youtube.com/watch?v=n7Tamj06FQs
 
+Comment total with replies: 1669
+Comment total witout replies: 1001
+
 Trump playlist: PL3-OIwNPoC3II9mG8jLIN8ODWydLnU1bB
 Comments stored: 'Data/trump_comments.csv'
 June (May 25th, 2016), Donald Trump Rally in Anaheim, CA
@@ -69,6 +72,9 @@ October 30, 2016 Full Speech: Donald Trump Rally in Greeley, CO
 https://www.youtube.com/watch?v=aMZsKq99hdk
 November 5, 2016 Full Speech: Donald Trump Rally in Denver, CO
 https://www.youtube.com/watch?v=KIKNSZ_Nf3w
+
+Comment total with replies: 4721
+Comment total witout replies: 2023
 
 ### DEBATE videos -
 There were 3 presidential debates in 2016: September 26, 2016, October 9, 2016, October 19, 2016. We aimed for an equal distribution of videos from each "type" of media sources. The types are "Right" and "Left." An important note a [Pew research article](https://www.pewresearch.org/journalism/2014/10/21/section-1-media-sources-distinct-favorites-emerge-on-the-left-and-right/) showed a great spread in trust of sources left of the center in regards to American politics. For this reason we have a range from "middle" to mid-left news sources in an attempt to represent "the most" Americans perspectives. 
@@ -92,6 +98,9 @@ October 19:
 [CBS News - Full 2016 Final Presidential Debate](https://www.youtube.com/watch?v=FZ_G5j9yVIU) 931
 [LIVE: Third Presidential Debate (C-SPAN)](https://www.youtube.com/watch?v=ANT_ZBhpvtw&t=173s) 2531
 [Final 2016 Presidential Debate (Full) | The New York Times](https://www.youtube.com/watch?v=Z_pEb1bDN-w)   1666
+
+Comment total with replies: 94219
+Comment total witout replies: 52283
 
 #### FOX/CBC/NBC/Newsmax/NewYorkPost:
 Playlist: https://www.youtube.com/watch?v=lTgieGfYVQs&list=PL3-OIwNPoC3JFEvZP_nSMPrib8viH2KX-
@@ -117,6 +126,9 @@ CBC News Special: Final Trump-Clinton presidential debate](https://www.youtube.c
 
 [NBC News-YouTube Democratic Debate (Full)](https://www.youtube.com/watch?v=ti2Nokoq1J4)9166
 
+
+Comment total with replies: 11005
+Comment total witout replies: 5569
 ________________________
 1. Project Title & Overview:
 Concise and Descriptive Title: A title that clearly conveys the project's purpose and scope. 
